@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.not-found-img {
+  height: 500px;
+  margin-bottom: 40px;
+  margin-top: 120px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #616e7c;
+}

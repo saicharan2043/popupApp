@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.coman-bg-color {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-img {
+  width: 70%;
+  border-radius: 10px;
+}
